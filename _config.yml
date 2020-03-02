@@ -110,12 +110,12 @@ author:
   name             : "Sangwon Hyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student in School of Computing, KAIST" #Korea Advanced Institute of Science and Technology (KAIST)"
-  location         : "N1, KAIST, Daejon, Republic of Korea"
+  location         : "N1, KAIST, Daejon, Korea"
   email            : "swhyun@se.kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:swhyun@se.kaist.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

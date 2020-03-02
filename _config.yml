@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sangwon Hyun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Integrated Ph.D. Student in School of Computing, Korea Advanced Institute of Science and Technology (KAIST)"
+  bio              : "Integrated Ph.D. Student in School of Computing, KAIST" #Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "N1 #524, Daejon, Republic of Korea"
   email            : "swhyun@se.kaist.ac.kr"
   links:

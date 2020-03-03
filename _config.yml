@@ -109,10 +109,10 @@ analytics:
 author:
   name             : "Sangwon Hyun"
   avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "Ph.D. Student <br> @ Software Engineering Lab (SE LAB)
+  bio              : "Ph.D. Student <br> @ SE LAB
                       <br> School of Computing Dept.
-                      <br> Korea Advanced Institute of Science and Technology (KAIST) " #Korea Advanced Institute of Science and Technology (KAIST)"
-  location         : "KAIST, Daejeon, Korea"
+                      <br> KAIST" #Korea Advanced Institute of Science and Technology (KAIST)"
+  location         : "Daejeon, Korea"
   email            : "swhyun@se.kaist.ac.kr"
   links:
     - label: "Email"

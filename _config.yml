@@ -110,7 +110,7 @@ author:
   name             : "Sangwon Hyun"
   avatar           : "/assets/images/bio_photo.jpg"
   bio              : "Ph.D. Student in School of Computing, KAIST" #Korea Advanced Institute of Science and Technology (KAIST)"
-  location         : "N1, KAIST, Daejon, Korea"
+  location         : "KAIST, Daejon, Korea"
   email            : "swhyun@se.kaist.ac.kr"
   links:
     - label: "Email"

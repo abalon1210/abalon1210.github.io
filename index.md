@@ -41,16 +41,16 @@ for analyzing failure-inducing interactions on large-scale complex systems, such
 <span style="font-size:12pt"> 2015 Jun - &ensp;**Outstanding mentor award** in *C++ mentoring*
 
 ### Experience
-<span style="font-size:12pt"> 2018 Aug - &ensp;Localizing failure-inducing interactions on Cyber-Physical Systems (CPS)  
+<span style="font-size:12pt"> 2018 Aug - &ensp;<U>Localizing failure-inducing interactions on Cyber-Physical Systems (CPS)</U>  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing Localization techniques for failure-inducing interactions on a Platooning system  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; to analyze interaction failures in CPS systems ([StarPlateS](https://github.com/abalon1210/StarPlateS)).  
-<span style="font-size:12pt"> 2018 Feb - &ensp;Simulation-based verification and analysis of System-of-Systems (SoS)  
+<span style="font-size:12pt"> 2018 Feb - &ensp;<U>Simulation-based verification and analysis of System-of-Systems (SoS)</U>  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing simulation and verification modules with properties in [SIMVA-SoS](https://github.com/SESoS/SIMVA-SoS).  
-<span style="font-size:12pt"> 2018 Mar - 2018 Jun &ensp;Automatic generation of metamorphic relationship without templates  
+<span style="font-size:12pt"> 2018 Mar - 2018 Jun &ensp;<U>Automatic generation of metamorphic relationship without templates</U>  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing prototype of the automatic MR generator [MRbyGP](https://github.com/MisterAI/MRbyGP).  
-<span style="font-size:12pt"> 2016 Sep - 2017 Aug &ensp;Social advertisement platform for local business owner, ADHOOD  
+<span style="font-size:12pt"> 2016 Sep - 2017 Aug &ensp;<U>Social advertisement platform for local business owner, ADHOOD</U>  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing Front-end(Android) UI and Back-end(AWS) DB for the application.  
-<span style="font-size:12pt"> 2014 Sep - 2014 Dec &ensp;Pintos Project  
+<span style="font-size:12pt"> 2014 Sep - 2014 Dec &ensp;<U>Pintos Project</U>  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Finishing to develop all pintos tasks in OS course.  
   
 ### Skills  

@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "CV"
-    url: https://abalon1210.github.io/cv
+#  - title: "CV"
+#    url: https://abalon1210.github.io/cv
   - title: "Publications"
     url: /pubs/
   - title: "Blog"

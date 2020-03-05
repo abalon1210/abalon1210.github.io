@@ -4,8 +4,10 @@ main:
 #    url: https://abalon1210.github.io/cv
   - title: "Publications"
     url: /pubs/
-  - title: "Blog"
-    url: /blog/
+  - title: "Category"
+    url: /Category/
+  - title: "Posts"
+    url: /Post/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

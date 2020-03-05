@@ -113,11 +113,11 @@ author:
                       <br> School of Computing Dept.
                       <br> KAIST" #Korea Advanced Institute of Science and Technology (KAIST)"
   location         : "Daejeon, Korea"
-  email            : "swhyun@se.kaist.ac.kr"
+  email            : #"swhyun@se.kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:swhyun@se.kaist.ac.kr
+      url: mailto:swhyun@se.kaist.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,10 +129,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/abalon1210"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/sangwon_hyun"
+      url: "https://instagram.com/sangwon_hyun"
 
 # Site Footer
 footer:
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/abalon1210"
+      #url: "https://github.com/abalon1210"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sangwon_hyun"
+      #url: "https://instagram.com/sangwon_hyun"
 
 
 # Reading Files

@@ -132,7 +132,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sangwon_hyun"
+      #url: "https://instagram.com/sangwon_hyun"
 
 # Site Footer
 footer:
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/abalon1210"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/sangwon_hyun"
 
 
 # Reading Files

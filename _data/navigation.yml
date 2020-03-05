@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "CV"
+    url: https://abalon1210.github.io/cv
+  - title: "Publications"
+    url: /pubs/
+  - title: "Blog"
+    url: /blog/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

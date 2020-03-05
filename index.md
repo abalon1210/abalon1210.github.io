@@ -21,9 +21,8 @@ classes: wide
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;BS in software Major, Computer Science and Engineering 
 
 ### Honors & Awards
-| &nbsp;| &nbsp;  |
-|------------|---|
 | 2019 Sep - | **Outstanding mentor award** in *Introduction to SE (CS350)* course  |
+|------------|---|
 | 2019 Jun - | **Best paper award** in Korea Computer Congress (KCC)  |
 | 2019 Feb - | **Outstanding mentor award** in *Introduction to SE (CS350)* course   |
 | 2018 Dec - | **Outstanding paper award** in Korea Software Congress (KSC)  |

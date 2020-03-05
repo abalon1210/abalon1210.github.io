@@ -10,8 +10,8 @@ classes: wide
 ---
 
 ### Research Interests
-<span style="font-size:12pt"> Studying effective and efficient debugging process, especially on Fault Localization and Diagnosis techniques
-<span style="font-size:12pt"> for analyzing failure-inducing interactions on large-scale complex systems, such as System of Systems.
+<span style="font-size:12pt"> Studying effective and efficient debugging process, especially on Fault Localization and Diagnosis techniques </span>
+<span style="font-size:12pt"> for analyzing failure-inducing interactions on large-scale complex systems, such as System of Systems. </span>
 
 ### Education
 <span style="font-size:12pt"> 2018 Mar - &ensp;**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea  

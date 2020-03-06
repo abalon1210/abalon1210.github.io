@@ -9,6 +9,7 @@ last_modified_at: 2020-03-05T16:06:00-21:00
 permalink: /Pubs/ 
 layout: posts
 author_profile: true
+classes: wide
 ---
 <!--
 ### 2020

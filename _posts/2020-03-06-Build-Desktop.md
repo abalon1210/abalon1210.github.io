@@ -25,7 +25,7 @@ I ordered high-end materials. </span>
 | Graphic card | ASUS ROG STRIX GeForce RTX 2080 Super 8GB | 1 |
 | Case | 3RSYS S700 Espresso CT Black | 1 |
 
-<span> <img src="/assets/images/Build-Desktop/materials_1.jpg" width="315">  <img src="/assets/images/Build-Desktop/case_1.jpg" width="315"> </span>
+<span> <img src="/assets/images/Build-Desktop/materials_1.jpg" width="313">  <img src="/assets/images/Build-Desktop/case_1.jpg" width="313"> </span>
 
 <span style="font-size:12pt"> 그 외에 셀프 조립을 위해 필요한 준비물로는 장갑, 십자/일자 드라이버, 케이블타이 정도이다. 조립에 사용되는 작은 나사들이나 
 SATA 케이블과 같은 케이블들도 다 들어있기 때문에 추가적으로 반드시 필요한게 아니면 장갑과 드라이버정도만 준비해도 충분하다고 본다. </span>  

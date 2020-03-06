@@ -39,17 +39,17 @@ contains small screws, cables, such as SATA cables, and cable ties, I think it's
 manufactureres produce specific lines of products for Inter and AMD CPUs, respectively, so you can choose the appropriate board for your CPU.
 The AMD 3700X used this time is compativle with MSI B450 line. </span>
 
-<span> <img src="/assets/images/Build-Desktop/mb_1.PNG" width="630"></span>
+<span> <img src="/assets/images/Build-Desktop/mb_1.JPG" width="630"></span>
 
 <span style="font-size:12pt"> 위의 그림에서 노란 박스로 표시한 부분이 MSI B450 Gaming pro 보드에서 CPU를 조립하는 부분이다. 이 보드는 자체적으로 
  CPU 쿨러 지지대가 내장되어있지만, 별도의 쿨러를 구매하는 경우 박스안에 보이는 지지대를 제거하고 새 지지대를 붙이면 된다. 하지만 이번에는 R7 3700X에서 
- 자체적으로 제공하는 쿨러를 사용했기때문에 지지대를 따로 제거하지는 않았다. (사실 농협쿨러라는 이름으로 유명한 NH-15 쿨러가 있긴했지만.. 따로 도전하지는 않았다.
+ 자체적으로 제공하는 쿨러를 사용했기때문에 지지대를 따로 제거하지는 않았다. (사실 농협쿨러라는 이름으로 유명한 NH-D15 쿨러가 있긴했지만.. 따로 도전하지는 않았다.)
  </span>  
 <span style="font-size:11pt"> The yellow box area in the above figure shows the CPU assembly part on the MSI B450 Gaming Pro board. 
  The board has its own CPU cooler support, but if you buy a special cooler you can simply remove the basic supprot and attach a new one.
  But this time, I didn't remove the supprot, because I used the basic cooler that included in the Ryzen 7 3700X package. </span>
 
-<span> <img src="/assets/images/Build-Desktop/mb_1_1.jpg" width="313">  <img src="/assets/images/Build-Desktop/cpu_1.jpg" width="313"> </span>
+<span> <img src="/assets/images/Build-Desktop/mb_1_1.JPG" width="313">  <img src="/assets/images/Build-Desktop/cpu_1.JPG" width="313"> </span>
 
 <span style="font-size:12pt"> 사실 CPU 조립은 굉장히 쉬운데, 위에 보이는 두 개의 세모 모양에 맞춰서 CPU를 메인보드 홈에 올려주면 끝나기 때문이다.
 CPU 칩의 세모 모양이 있는 방향과 메인보드의 세모 모양이 있는 방향을 맞게 올려놓으면 딱 맞는다는 느낌과 함께 CPU 칩이 들어간다.

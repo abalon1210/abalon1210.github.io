@@ -14,7 +14,6 @@ classes: wide
 <!--
 ### 2020
 -->
-
 ### 2019
 * <span style="font-size:11pt"> 신승철(Seungchyul), 현상원(Sangwon Hyun), 송지영(Jiyoung Song), 배두환(Doo-Hwan Bae), "시스템 오브 <br> 시스템즈에서의 불확실성 요소 분석: 군집운행 시나리오에서의 사례 연구 (Analysis of Uncertainty Factors in <br> System of Systems: Case Study in Platooning Scenario)" *한국정보과학회 학술발표논문집 [KSC 2019]: 278-280.* </span> <a href="/assets/papers/ksc2019.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>  
 * <span style="font-size:11pt"> Sangwon Hyun, Jiyoung Song, Seungchyul Shin, and Doo-Hwan Bae, "Statistical Verification Framework for <br> Platooning System of Systems with Uncertainty", *Asia-Pacific Software Engineering Conference (APSEC), 2019 <br> 26th, Putrajaya, Malaysia.* </span> <a href="/assets/papers/APSEC2019.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>

@@ -1,6 +1,5 @@
 ---
 title:  "Sangwon Hyun's CV"
-
 categories:
   - CV
 tags:
@@ -9,7 +8,6 @@ last_modified_at: 2020-03-05T11:06:00-21:00
 classes: wide
 comments: false
 ---
-
 ### Research Interests
 <span style="font-size:12pt"> Studying effective and efficient debugging process, especially on Fault Localization and Diagnosis techniques  
 for analyzing failure-inducing interactions on large-scale complex systems, such as System of Systems. </span>

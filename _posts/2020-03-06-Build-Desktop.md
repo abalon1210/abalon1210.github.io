@@ -1,13 +1,11 @@
 ---
 title:  "첫 데스크탑 조립 #1 (Building a Desktop first time #1)"
-
 categories:
   - Desktop Building
 tags:
   - Desktop Building
 last_modified_at: 2020-03-06T14:00:00-16:00 
 ---
-
 ### 준비 (Preparation)
 <span style="font-size:12pt"> 데스크탑 조립에서 가장 첫번째로 필요한 과정은 뭐니뭐니해도 어떤 장비들을 구매할것인지 정하는 과정이다. 
 이 과정은 사실 데스크탑의 용도와 가장 밀접하게 관련이 된다고 생각하는데, 이번에 제작하는 컴퓨터는 연구실에서 Deep Learning을 위해 제작할

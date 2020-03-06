@@ -33,3 +33,8 @@ SATA 케이블과 같은 케이블들도 다 들어있기 때문에 추가적으
 contains small screws, cables, such as SATA cables, and cable ties, I think it's enough to prepare gloves and drivers. </span>
 
 ### CPU 조립 
+<span style="font-size:12pt"> 본격적인 조립의 첫 단계는 CPU를 마더보드(메인보드)에 연결하는 것이다. 요즘은 마더보드 제조사들이 Intel, AMD CPU에 맞게
+특정 라인의 제품들을 생산하고 있으니 호환성을 확인한 후 구매하면 된다. 이번에 사용한 AMD 3700X는 MSI의 B450 라인과 호환이 된다. </span>  
+<span style="font-size:11pt"> The first step of the assembly is to connect the CPU to the Motherboard (Mainboard). In these days, motherboard
+manufactureres produce specific lines of products for Inter and AMD CPUs, respectively, so you can choose the appropriate board for your CPU.
+The AMD 3700X used this time is compativle with MSI B450 line. </span>

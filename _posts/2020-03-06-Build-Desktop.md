@@ -38,3 +38,6 @@ contains small screws, cables, such as SATA cables, and cable ties, I think it's
 <span style="font-size:11pt"> The first step of the assembly is to connect the CPU to the Motherboard (Mainboard). In these days, motherboard
 manufactureres produce specific lines of products for Inter and AMD CPUs, respectively, so you can choose the appropriate board for your CPU.
 The AMD 3700X used this time is compativle with MSI B450 line. </span>
+
+<span> <img src="/assets/images/Build-Desktop/mb_1.PNG" width="630"></span>
+

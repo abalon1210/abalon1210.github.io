@@ -48,3 +48,12 @@ The AMD 3700X used this time is compativle with MSI B450 line. </span>
 <span style="font-size:11pt"> The yellow box area in the above figure shows the CPU assembly part on the MSI B450 Gaming Pro board. 
  The board has its own CPU cooler support, but if you buy a special cooler you can simply remove the basic supprot and attach a new one.
  But this time, I didn't remove the supprot, because I used the basic cooler that included in the Ryzen 7 3700X package. </span>
+
+<span> <img src="/assets/images/Build-Desktop/mb_1_1.jpg" width="313">  <img src="/assets/images/Build-Desktop/cpu_1.jpg" width="313"> </span>
+
+<span style="font-size:12pt"> 사실 CPU 조립은 굉장히 쉬운데, 위에 보이는 두 개의 세모 모양에 맞춰서 CPU를 메인보드 홈에 올려주면 끝나기 때문이다.
+CPU 칩의 세모 모양이 있는 방향과 메인보드의 세모 모양이 있는 방향을 맞게 올려놓으면 딱 맞는다는 느낌과 함께 CPU 칩이 들어간다.
+여기서 힘을 주면 CPU 칩이 손상될 수 있으니, 단순히 올려놓는다는 느낌으로 조립하면 된다. </span>  
+<span style="font-size:11pt"> In fact, CPU assembly is very easy because it is done by putting the CPU on the board with fitting the triangle marks.
+ If you place the chip with the correct direction, The CPU chip will fit perfectly. Applying force can damage the chip, so simply assemble it as if 
+ you're placing the chip on the board. </span>

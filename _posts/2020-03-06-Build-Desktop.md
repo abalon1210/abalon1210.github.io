@@ -2,7 +2,7 @@
 title:  "첫 데스크탑 조립 #1 (Building a Desktop first time #1)"
 
 categories:
-  - Blog
+  - Desktop Building
 tags:
   - Desktop Building
 last_modified_at: 2020-03-06T14:00:00-16:00 

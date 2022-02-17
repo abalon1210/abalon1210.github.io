@@ -1,4 +1,3 @@
-<!-- ---
 title:  "첫 데스크탑 조립 #1 (Building a Desktop first time #1)"
 categories:
   - Desktop Building
@@ -56,4 +55,4 @@ CPU 칩의 세모 모양이 있는 방향과 메인보드의 세모 모양이 �
 여기서 힘을 주면 CPU 칩이 손상될 수 있으니, 단순히 올려놓는다는 느낌으로 조립하면 된다. </span>  
 <span style="font-size:11pt"> In fact, CPU assembly is very easy because it is done by putting the CPU on the board with fitting the triangle marks.
  If you place the chip with the correct direction, The CPU chip will fit perfectly. Applying force can damage the chip, so simply assemble it as if 
- you're placing the chip on the board. </span> -->
+ you're placing the chip on the board. </span>

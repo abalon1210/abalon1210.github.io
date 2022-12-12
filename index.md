@@ -13,7 +13,7 @@ comments: false
 
 ### Education
 <span style="font-size:12pt"> 2018 Mar - 2023 Feb &ensp;**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea  
-<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Integrated Ph. D course in Software Engineering, Advisor: Doo-Hwan Bae  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Integrated Ph. D. course in Software Engineering Lab (SELab), Advisor: Doo-Hwan Bae  
   
 <span style="font-size:12pt"> 2013 Mar - 2018 Feb &ensp;**Hanyang University**, Seoul, Republic of Korea  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;BS in software Major, Computer Science and Engineering 

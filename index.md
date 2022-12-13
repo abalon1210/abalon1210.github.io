@@ -9,9 +9,7 @@ classes: wide
 comments: false
 ---
 
-<span style="font-size:12pt"> I recently got a Ph.D. from Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae.
-
-<span style="font-size:12pt"> I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems.
+<span style="font-size:12pt"> I recently got a Ph.D. from Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae. I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems.
 
 ### Research Interests
 <span style="font-size:12pt"> Automated testing and analysis of large-scale complex systems, such as System-of-Systems (SoS) and Cyber-Physical Systems (CPS), focusing on statistical verification, automated debugging, and AI for SE methods.</span>

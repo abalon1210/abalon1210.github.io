@@ -47,7 +47,7 @@ comments: false
 <br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; platooning & drone swarming Cyber Physical System-of-Systems (CPSoS) scenarios ([CAFCA](https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures)).  
 
-<span style="font-size:12pt"> 2018 Feb - 2022 Dec &ensp; **\[SW STARLAB\] Simulation-based verification and analysis of System-of-Systems (SoS)**  
+<span style="font-size:12pt"> 2018 Mar - 2022 Dec &ensp; **\[SW STARLAB\] Simulation-based verification and analysis of System-of-Systems (SoS)**  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing simulation and verification modules for mass casualty incident-response SoS in ([SIMVA-SoS](https://github.com/psumin/SoS-simulation-engine)).  
 
 <span style="font-size:12pt"> 2018 Aug - 2020 Aug &ensp; **\[CPS Project\] Localizing failure-inducing interactions on Cyber-Physical Systems (CPS)**  

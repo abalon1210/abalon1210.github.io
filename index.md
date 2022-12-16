@@ -43,24 +43,24 @@ comments: false
 
 ### Experiences
 <span style="font-size:12pt"> 2020 Jul - 2022 Dec &ensp; **\[BECS ITRC\] User-level fault analysis on big data and edge cloud systems**  
-<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing automated failure context mining & fault localization approach for edge cloud-based 
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed automated failure context mining & fault localization approach for edge cloud-based 
 <br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; platooning & drone swarming Cyber Physical System-of-Systems (CPSoS) scenarios ([CAFCA](https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures)).  
 
 <span style="font-size:12pt"> 2018 Mar - 2022 Dec &ensp; **\[SW STARLAB\] Simulation-based verification and analysis of System-of-Systems (SoS)**  
-<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing simulation and verification modules for mass casualty incident-response SoS in ([SIMVA-SoS](https://github.com/psumin/SoS-simulation-engine)).  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed simulation and verification modules for mass casualty incident-response SoS in ([SIMVA-SoS](https://github.com/psumin/SoS-simulation-engine)).  
 
 <span style="font-size:12pt"> 2018 Aug - 2020 Aug &ensp; **\[CPS Project\] Localizing failure-inducing interactions on Cyber-Physical Systems (CPS)**  
-<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing fault localization techniques to analyze failure-inducing interactions in CPS systems ([StarPlateS](https://github.com/KAIST-SE-Lab/StarPlateS)).  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed fault localization techniques to analyze failure-inducing interactions in CPS systems ([StarPlateS](https://github.com/KAIST-SE-Lab/StarPlateS)).  
 
 <span style="font-size:12pt"> 2018 Mar - 2018 Jun &ensp;**Automatic generation of metamorphic relationship without templates**  
-<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing prototype of the automatic MR generator ([MRbyGP](https://github.com/MisterAI/MRbyGP)).  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed prototype of the automatic MR generator ([MRbyGP](https://github.com/MisterAI/MRbyGP)).  
 
 <span style="font-size:12pt"> 2016 Sep - 2017 Aug &ensp;**Social advertisement platform for local business owner, ADHOOD**  
-<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developing Front-end(Android) UI and Back-end(AWS) DB for the application.  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed Front-end(Android) UI and Back-end(AWS) DB for the application.  
 
 <span style="font-size:12pt"> 2014 Sep - 2014 Dec &ensp;**Pintos Project**  
-<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Finishing to develop all pintos tasks in OS course.  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Finished developing all pintos tasks in the undergraduate OS course
   
 ### Skills  
 <span style="font-size:12pt"> Programming language: C, C++, Java, Python  

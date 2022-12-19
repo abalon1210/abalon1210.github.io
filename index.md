@@ -46,17 +46,14 @@ comments: false
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed automated failure context mining & fault localization approach for edge cloud-based 
 <br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; platooning & drone swarming Cyber Physical System-of-Systems (CPSoS) scenarios ([CAFCA](https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures)).  
-<br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Research center for Big data Edge Cloud Services (BECS) supported by Ministry of Science and ICT (MSIT), Korea  
 
 <span style="font-size:12pt"> 2018 Mar - 2022 Dec &ensp; **\[SW STARLAB\] Simulation-based verification and analysis of System-of-Systems (SoS)**  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed simulation and verification modules for mass casualty incident-response SoS in ([SIMVA-SoS](https://github.com/psumin/SoS-simulation-engine)).  
-<br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Supported by Institute of Information & Communications Technology Planning & Evaluation (IITP), Korea
 
 <span style="font-size:12pt"> 2018 Aug - 2020 Aug &ensp; **\[NEXT-GEN\] Localizing failure-inducing interactions on Cyber-Physical Systems (CPS)**  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed fault localization techniques to analyze failure-inducing interactions in CPS systems ([StarPlateS](https://github.com/KAIST-SE-Lab/StarPlateS)).  
-<br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Next Generation ICT Project supported by Ministry of Science and ICT (MSIT), Korea  
 
 <span style="font-size:12pt"> 2018 Mar - 2018 Jun &ensp;**Automatic generation of metamorphic relationship without templates**  

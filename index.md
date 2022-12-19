@@ -32,9 +32,9 @@ comments: false
 | 2016 Dec - | **Outstanding mentor award** in *C++ mentoring*  |
 | 2015 Jun - | **Outstanding mentor award** in *C++ mentoring*  | -->
 
-<span style="font-size:12pt"> 2019 Sep - &ensp;**Outstanding mentor award** in *Introduction to SE* course  
+<span style="font-size:12pt"> 2019 Sep - &ensp;**Outstanding TA award** in *Introduction to SE* course  
 <span style="font-size:12pt"> 2019 Jun - &ensp;**Best paper award** in Korea Computer Congress (KCC)  
-<span style="font-size:12pt"> 2019 Feb - &ensp;**Outstanding mentor award** in *Introduction to SE* course  
+<span style="font-size:12pt"> 2019 Feb - &ensp;**Outstanding TA award** in *Introduction to SE* course  
 <span style="font-size:12pt"> 2018 Dec - &ensp;**Outstanding paper award** in Korea Software Congress (KSC)  
 <span style="font-size:12pt"> 2018 Feb - &ensp;**Summa cum laude**, Hanyang University (GPA 4.18/4.5)  
 <span style="font-size:12pt"> 2017 Nov - &ensp;**First prize** in Hanyang Collegiate Programming Competition (HCPC)  

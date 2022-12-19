@@ -46,7 +46,7 @@ comments: false
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed automated failure context mining & fault localization approach for edge cloud-based 
 <br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; platooning & drone swarming Cyber Physical System-of-Systems (CPSoS) scenarios ([CAFCA](https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures)).  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Research center for Big data Edge Cloud Services (BECS) supported by Ministry of Science and ICT (MSIT), Korea  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Big data Edge Cloud Services (BECS) research center supported by Ministry of Science and ICT (MSIT), Korea  
 
 <span style="font-size:12pt"> 2018 Mar - 2022 Dec &ensp; **\[SW STARLAB\] Simulation-based verification and analysis of System-of-Systems (SoS)**  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed simulation and verification modules for mass casualty incident-response SoS in ([SIMVA-SoS](https://github.com/psumin/SoS-simulation-engine)).  

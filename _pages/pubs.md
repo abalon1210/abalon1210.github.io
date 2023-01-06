@@ -12,6 +12,9 @@ author_profile: true
 classes: wide
 ---
 
+### 2023
+* <span style="font-size:11pt"> **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, and Doo-Hwan Bae, "CTimed Pattern-based Analysis of Collaboration Failures in System-of-Systems", *Available at SSRN 4197677, Accepted to Journal of Systems and Software (JSS).* </span>
+
 ### 2022
 * <span style="font-size:11pt"> Jiyoung Song, Jeehoon Kang, **Sangwon Hyun**, Eunkyoung Jee, and Doo-Hwan Bae, "Continuous verification of system of systems with collaborative MAPE-K
 pattern and probability model slicing", *Information and Software Technology 147 (2022) 106904* </span> <a href="/assets/papers/2022_IST.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>

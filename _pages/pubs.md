@@ -12,7 +12,7 @@ author_profile: true
 classes: wide
 ---
 
-#### Ph.D. Dissertation Context Mining-based Fault Analysis of Collaboration Failures in Cyber-Physical System-of-Systems 
+#### Ph.D. Dissertation: Context Mining-based Fault Analysis of Collaboration Failures in Cyber-Physical System-of-Systems 
 <a href="/assets/papers/Dissertation.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 
 ### 2023

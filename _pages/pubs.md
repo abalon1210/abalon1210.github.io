@@ -12,12 +12,15 @@ author_profile: true
 classes: wide
 ---
 
+### Ph.D. Dissertation
+* <span style="font-size:11pt"> "Context Mining-based Fault Analysis of Collaboration Failures in Cyber-Physical System-of-Systems" </span> <a href="/assets/papers/Dissertation.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
+
 ### 2023
-* <span style="font-size:11pt"> **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, and Doo-Hwan Bae, "CTimed Pattern-based Analysis of Collaboration Failures in System-of-Systems", *Available at SSRN 4197677, Accepted to Journal of Systems and Software (JSS).* </span>
+* <span style="font-size:11pt"> **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, and Doo-Hwan Bae, "Timed Pattern-based Analysis of Collaboration Failures in System-of-Systems", *Journal of Systems and Software (2023): 111613.* </span> <a href="https://www.sciencedirect.com/science/article/pii/S0164121223000080" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 
 ### 2022
 * <span style="font-size:11pt"> Jiyoung Song, Jeehoon Kang, **Sangwon Hyun**, Eunkyoung Jee, and Doo-Hwan Bae, "Continuous verification of system of systems with collaborative MAPE-K
-pattern and probability model slicing", *Information and Software Technology 147 (2022) 106904* </span> <a href="/assets/papers/2022_IST.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
+pattern and probability model slicing", *Information and Software Technology 147 (2022) 106904* </span> <a href="https://www.sciencedirect.com/science/article/pii/S0950584922000635" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 * <span style="font-size:11pt"> Esther Cho, Yong-Jun Shin, **Sangwon Hyun**, Hansu Kim, and Doo-Hwan Bae, "Automatic Generation of Metamorphic Relations for a Cyber-Physical System-of-Systems Using Genetic Algorithm", *Asia-Pacific Software Engineering Conference (APSEC), 2022, 29th, Online.* </span> <a href="/assets/papers/2022_APSEC.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 * <span style="font-size:11pt"> 김한수 (Hansu Kim), **현상원(Sangwon Hyun)**, 배두환(Doo-Hwan Bae), "다변수 시계열 데이터 군집화 알고리즘의 사이버 물리 시스템 오브 시스템즈 실패 분석을 위한 연구 조사 (A Survey on Multivariate Time-Series Clustering Techniques for Analyzing Cyber-Physical System-of-Systems Failures)" *한국컴퓨터종합학술대회 논문집 [KCC 2022].* </span> <a href="/assets/papers/2022_KCC.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 

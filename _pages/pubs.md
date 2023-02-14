@@ -12,8 +12,8 @@ author_profile: true
 classes: wide
 ---
 
-#### Ph.D. Dissertation: Context Mining-based Fault Analysis of Collaboration Failures in Cyber-Physical System-of-Systems 
-<a href="/assets/papers/Dissertation.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
+### Ph.D. Dissertation 
+* <span style="font-size:12pt">Context Mining-based Fault Analysis of Collaboration Failures in Cyber-Physical System-of-Systems </span> <a href="/assets/papers/Dissertation.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 
 ### 2023
 * <span style="font-size:11pt"> **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, and Doo-Hwan Bae, "Timed Pattern-based Analysis of Collaboration Failures in System-of-Systems", *Journal of Systems and Software (2023): 111613.* </span> <a href="https://www.sciencedirect.com/science/article/pii/S0164121223000080" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>

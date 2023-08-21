@@ -109,15 +109,15 @@ analytics:
 author:
   name             : "Sangwon Hyun"
   avatar           : "/assets/images/bio_photo.jpg"
-  bio              : "Ph.D. Student @ SE LAB
-                      <br> School of Computing Dept.
-                      <br> KAIST" #Korea Advanced Institute of Science and Technology (KAIST)"
-  location         : "Daejeon, Korea"
+  bio              : "Post-doc Researcher @ CREST
+                      <br> University of Adelaide"
+                      #<br> KAIST" #Korea Advanced Institute of Science and Technology (KAIST)"
+  location         : "Adelaide, Australia"
   email            : #"swhyun@se.kaist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:swhyun@se.kaist.ac.kr
+      url: mailto:dr.sangwon.hyun@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,9 +130,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/abalon1210"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sangwon_hyun"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sangwon-hyun-022a32121/"
 
 # Site Footer
 footer:

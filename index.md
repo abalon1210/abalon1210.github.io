@@ -9,12 +9,14 @@ classes: wide
 comments: false
 ---
 
-<span style="font-size:12pt"> I recently got a Ph.D. from Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae. I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems.
+<span style="font-size:12pt"> I am a researcher at the University of Adelaide and a member of the Centre for Research on Engineering Software Technology. I got a Ph.D. from the Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae. I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems. Currently, I focuse on testing Large-Language Models (LLMs) and applying digital twin-based testing techniques on autonomous and complex systems.
 
 ### Research Interests
 <span style="font-size:12pt"> Automated testing and analysis of large-scale complex systems, such as System-of-Systems (SoS) and Cyber-Physical Systems (CPS), focusing on statistical verification, automated debugging, and AI for SE methods.</span>
 
-### Education
+### Education & Experiences
+<span style="font-size:12pt"> 2023 May - Current &ensp;**Post-doc researcher at CREST center, University of Adelaide**, Adelaide, Australia 
+
 <span style="font-size:12pt"> 2018 Mar - 2023 Feb &ensp;**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Integrated Ph. D. course in Software Engineering Lab (SELab), Advisor: Doo-Hwan Bae  
   
@@ -46,7 +48,7 @@ comments: false
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed automated failure context mining & fault localization approach for edge cloud-based 
 <br> 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; platooning & drone swarming Cyber Physical System-of-Systems (CPSoS) scenarios ([CAFCA](https://github.com/abalon1210/CAFCA---Context-Aware-Fuzzy-Clustering-for-Analyzing-Interaction-Failures)).  
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Big data Edge Cloud Services (BECS) research center supported by Ministry of Science and ICT (MSIT), Korea  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Big data Edge Cloud Services (BECS) center supported by Ministry of Science and ICT (MSIT), Korea  
 
 <span style="font-size:12pt"> 2018 Mar - 2022 Dec &ensp; **\[SW STARLAB\] Simulation-based verification and analysis of System-of-Systems (SoS)**  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed simulation and verification modules for mass casualty incident-response SoS in ([SIMVA-SoS](https://github.com/psumin/SoS-simulation-engine)).  

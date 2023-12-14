@@ -9,10 +9,10 @@ classes: wide
 comments: false
 ---
 
-<span style="font-size:12pt"> I am a post-doc researcher at the University of Adelaide and a member of the Centre for Research on Engineering Software Technology. I got a Ph.D. from the Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae. I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems. Currently, I concentrate on proposing an effective testing approach for Large-Language Models (LLMs) and applying digital twin-based testing techniques on autonomous and safety-critical systems.
+<span style="font-size:12pt"> I am a post-doc researcher at the University of Adelaide and a member of the Centre for Research on Engineering Software Technology (CREST). I got a Ph.D. from the Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae. I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems. Currently, I concentrate on proposing an effective testing approach for Large-Language Models (LLMs) and applying digital twin-based testing techniques on autonomous and safety-critical systems.
 
 ### Research Interests
-<span style="font-size:12pt"> Automated testing and analysis of large-scale complex systems, such as System-of-Systems (SoS) and Cyber-Physical Systems (CPS), focusing on statistical verification, automated debugging, and AI for SE methods.</span>
+<span style="font-size:12pt"> Automated testing and debugging of black-boxed, probabilistic, and large-scale AI models, such as Large-Language Models (LLMs), and AI-based complex systems, as System-of-Systems (SoS) and Cyber-Physical Systems (CPS).</span>
 
 ### Education & Experiences
 <span style="font-size:12pt"> 2023 May - Current &ensp;**Post-doc researcher at CREST center, University of Adelaide**, Adelaide, Australia 

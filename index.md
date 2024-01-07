@@ -14,7 +14,7 @@ comments: false
 ### Research Interests
 <span style="font-size:12pt"> Automated testing and debugging of black-boxed, probabilistic, and large-scale AI models, such as Large-Language Models (LLMs), and AI-based complex systems, as System-of-Systems (SoS) and Cyber-Physical Systems (CPS).</span>
 
-### Education & Experiences
+### Education & Job Experiences
 <span style="font-size:12pt"> 2023 May - Current &ensp;**Post-doc researcher at CREST center, University of Adelaide**, Adelaide, Australia 
 
 <span style="font-size:12pt"> 2018 Mar - 2023 Feb &ensp;**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea  
@@ -43,7 +43,11 @@ comments: false
 <span style="font-size:12pt"> 2016 Dec - &ensp;**Outstanding mentor award** in *C++ mentoring*  
 <span style="font-size:12pt"> 2015 Jun - &ensp;**Outstanding mentor award** in *C++ mentoring*
 
-### Experiences
+### Program Committee & Reviewer Experiences
+<span style="font-size:12pt"> 2023 PC member: *30th Asia-Pacific Software Engineering Conference (APSEC)* SEIP Track
+<span style="font-size:12pt"> 2023 Reviewer: *Journal of Software: Evolution and Process* Special Issue on SESoS 2023
+
+### Project Experiences
 <span style="font-size:12pt"> 2020 Jul - 2022 Dec &ensp; **\[BECS ITRC\] User-level fault analysis on big data and edge cloud systems**  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed automated failure context mining & fault localization approach for edge cloud-based 
 <br> 

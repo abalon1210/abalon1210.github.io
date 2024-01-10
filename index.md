@@ -44,8 +44,8 @@ comments: false
 <span style="font-size:12pt"> 2015 Jun - &ensp;**Outstanding mentor award** in *C++ mentoring*
 
 ### Program Committee & Reviewer Experiences
-<span style="font-size:12pt"> 2023 PC member: *30th Asia-Pacific Software Engineering Conference (APSEC)* SEIP Track
-<span style="font-size:12pt"> 2023 Reviewer: *Journal of Software: Evolution and Process* Special Issue on SESoS 2023
+<span style="font-size:12pt"> 2023 PC Member - *30th Asia-Pacific Software Engineering Conference (APSEC)* SEIP Track  
+<span style="font-size:12pt"> 2023 Reviewer - *Journal of Software: Evolution and Process*, Special Issue on SESoS 2023
 
 ### Project Experiences
 <span style="font-size:12pt"> 2020 Jul - 2022 Dec &ensp; **\[BECS ITRC\] User-level fault analysis on big data and edge cloud systems**  

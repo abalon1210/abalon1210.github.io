@@ -45,7 +45,6 @@ comments: false
 
 ### Program Committee & Reviewer Experiences
 <span style="font-size:12pt"> 2023 PC member: *30th Asia-Pacific Software Engineering Conference (APSEC)* SEIP Track
-
 <span style="font-size:12pt"> 2023 Reviewer: *Journal of Software: Evolution and Process* Special Issue on SESoS 2023
 
 ### Project Experiences

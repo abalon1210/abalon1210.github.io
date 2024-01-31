@@ -13,8 +13,10 @@ classes: wide
 ---
 
 ### International
-* <span style="font-size:11pt"> Doo-Hwan Bae, **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, "TIMED PATTERN BASED ANALYSIS OF COLLABORATION FAILURES IN PLATOONING SYSTEM OF SYSTEMS", US 18/319,875 Application to USA
+* <span style="font-size:11pt"> Doo-Hwan Bae, **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, "TIMED PATTERN BASED ANALYSIS OF COLLABORATION FAILURES IN PLATOONING SYSTEM OF SYSTEMS", US 18/319,875 Application to USA / 2023-197228, Application to Japan
 * <span style="font-size:11pt"> Doo-Hwan Bae, **Sangwon Hyun**, "METHOD AND APPARATUS FOR ANALYZING PATTERN-BASED INTERACTION FAILURES IN SYSTEMS-OF-SYSTEMS", 2021-164877, Application to Japan
+* <span style="font-size:11pt"> Doo-Hwan Bae, Esther Cho,**Sangwon Hyun**, Yong-Jun Shin, Hansu Kim, "AUTOMATIC GENERATION OF METAMORPHIC RELATIONS FOR A CYBER-PHYSICAL SYSTEM-OF-SYSTEMS", PCT/KR2023/017210
+  * <span style="font-size:11pt"> Doo-Hwan Bae, Hansu Kim, **Sangwon Hyun**, "METHOD AND DEVICE OF COLLISION ANALYSIS FOR PLATOONING SYSTEM", PCT/KR2023/017275
 
 ### Korean
 * <span style="font-size:11pt"> Doo-Hwan Bae, **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, "TIMED PATTERN BASED ANALYSIS OF COLLABORATION FAILURES IN PLATOONING SYSTEM OF SYSTEMS", 10-2022-0160655, Application to Korea

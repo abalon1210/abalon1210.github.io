@@ -12,10 +12,10 @@ comments: false
 <span style="font-size:12pt"> I am a post-doc researcher at the University of Adelaide and a member of the Centre for Research on Engineering Software Technology (CREST). I got a Ph.D. from the Software Engineering Lab (SELab) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Doo-Hwan Bae. I have a few experiences in leading research projects to analyze the reliability or safety of complex systems, such as platooning vehicles, swarming drones, and edge cloud-based systems. In addition, I have wide research experiences ranging from surveying, development, experimental dataset generation, and empirical analysis for complex systems. Currently, I concentrate on proposing an effective testing approach for Large-Language Models (LLMs) and applying digital twin-based testing techniques on autonomous and safety-critical systems.
 
 ### Research Interests
-<span style="font-size:12pt"> Automated testing and debugging of black-boxed, probabilistic, and large-scale AI models, such as Large-Language Models (LLMs), and AI-based complex systems, as System-of-Systems (SoS) and Cyber-Physical Systems (CPS).</span>
+<span style="font-size:12pt"> Automated testing and debugging, Software engineering for LLMs, Software quality assessment and runtime verification, LLM agenting and optimization, Digital twin architecture </span>
 
 ### Education & Job Experiences
-<span style="font-size:12pt"> 2023 May - Current &ensp;**Post-doc researcher at CREST center, University of Adelaide**, Adelaide, Australia 
+<span style="font-size:12pt"> 2023 May - Current &ensp;**Postdoc researcher (Level-A) at CREST center, University of Adelaide**, Adelaide, Australia 
 
 <span style="font-size:12pt"> 2018 Mar - 2023 Feb &ensp;**Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Integrated Ph. D. course in Software Engineering Lab (SELab), Advisor: Doo-Hwan Bae  
@@ -44,10 +44,27 @@ comments: false
 <span style="font-size:12pt"> 2015 Jun - &ensp;**Outstanding mentor award** in *C++ mentoring*
 
 ### Program Committee & Reviewer Experiences
-<span style="font-size:12pt"> 2023 PC Member - *30th Asia-Pacific Software Engineering Conference (APSEC)* SEIP Track  
-<span style="font-size:12pt"> 2023 Reviewer - *Journal of Software: Evolution and Process*, Special Issue on SESoS 2023
+<span style="font-size:12pt"> 2023 Aug - &ensp;PC Member - *Software Engineering for System-of-Systems (SESoS)* Co-located workshop with *International Conference on Software Engineering (ICSE)* 
+<span style="font-size:12pt"> 2024 Jul - &ensp;Reviewer - *The Journal of Systems and Software (JSS)*  
+<span style="font-size:12pt"> 2024 Jun - &ensp;Proceedings Chair - *Software Vulnerability Management (SVM)* Co-located workshop with *International Conference on Software Engineering (ICSE)*  
+<span style="font-size:12pt"> 2023 Oct - &ensp;PC Member - *International Conference on Software Engineering and Knowledge Engineering (SEKE)* 
+<span style="font-size:12pt"> 2023 Aug - &ensp;PC Member - *Asia-Pacific Software Engineering Conference (APSEC)* SEIP Track  
+<span style="font-size:12pt"> 2023 Oct &ensp;Reviewer - *Journal of Software: Evolution and Process*, Special Issue on SESoS 2023
 
 ### Project Experiences
+<span style="font-size:12pt"> 2024 Apr - Current &ensp; **\[KAIST-UoA\] International undergraduate research program**  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Supervised three undergraduate students from KAIST for an empirical analysis
+<br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; of LLM assistance in software code generation.  
+
+<span style="font-size:12pt"> 2023 May - Current &ensp; **\[CREST\] Assessing and improving the trustworthiness of LLMs**  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed an executable framework to assess the comprehensive quality attributes, <br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; such as robustness and fairness of LLM text outcomes by applying metamorphic testing and optimization techniques.
+
+<span style="font-size:12pt"> 2023 May - Current &ensp; **\[CREST\] Agentic Digital Twin platform for domain-specific systems**  
+<span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Designed and developed low-code and agentic digital twin platform for agile and <br> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; productive monitoring, operation, and optimization of target systems.
+
 <span style="font-size:12pt"> 2020 Jul - 2022 Dec &ensp; **\[BECS ITRC\] User-level fault analysis on big data and edge cloud systems**  
 <span style="font-size:12pt"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Developed automated failure context mining & fault localization approach for edge cloud-based 
 <br> 

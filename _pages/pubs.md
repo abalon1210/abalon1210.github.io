@@ -16,10 +16,11 @@ classes: wide
 * <span style="font-size:12pt">Context Mining-based Fault Analysis of Collaboration Failures in Cyber-Physical System-of-Systems </span> <a href="/assets/papers/Dissertation.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 
 ### 2024
+* <span style="font-size:11pt"> **Sangwon Hyun**, Eunkyoung Jee, and Doo-Hwan Bae, "Collaboration Failure Analysis in Cyber-Physical System-of-Systems using Context Fuzzy Clustering", *Accepted to Empirical Software Engineering (EMSE), 2024.* </span> <a href=" " target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 * <span style="font-size:11pt"> **Sangwon Hyun**, Mingyu Guo, and M. Ali Babar, "METAL: Metamorphic Testing Framework for Analyzing Large-Language Model Qualities", *International Conference on Software Testing, Verification and Validation (ICST) 2024* </span> <a href="/assets/papers/2024_ICST_METAL.pdf" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 
 ### 2023
-* <span style="font-size:11pt"> **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, and Doo-Hwan Bae, "Timed Pattern-based Analysis of Collaboration Failures in System-of-Systems", *Journal of Systems and Software (2023): 111613.* </span> <a href="https://www.sciencedirect.com/science/article/pii/S0164121223000080" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
+* <span style="font-size:11pt"> **Sangwon Hyun**, Jiyoung Song, Eunkyoung Jee, and Doo-Hwan Bae, "Timed Pattern-based Analysis of Collaboration Failures in System-of-Systems", *The Journal of Systems and Software (JSS) (2023): 111613.* </span> <a href="https://www.sciencedirect.com/science/article/pii/S0164121223000080" target="_blank" rel="noopener noreferrer"><img src="/assets/icons/pdf.png" alt="" width="17"></a>
 
 ### 2022
 * <span style="font-size:11pt"> Jiyoung Song, Jeehoon Kang, **Sangwon Hyun**, Eunkyoung Jee, and Doo-Hwan Bae, "Continuous verification of system of systems with collaborative MAPE-K
